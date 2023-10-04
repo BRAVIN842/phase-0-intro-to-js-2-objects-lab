@@ -25,11 +25,4 @@ const employee = {
     return employee;
   }
   
-  module.exports = {
-    employee,
-    updateEmployeeWithKeyAndValue,
-    destructivelyUpdateEmployeeWithKeyAndValue,
-    deleteFromEmployeeByKey,
-    destructivelyDeleteFromEmployeeByKey,
-  };
   
